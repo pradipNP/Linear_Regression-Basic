@@ -17,5 +17,5 @@ This repository contains a basic implementation of linear regression in Python. 
   - python linear_regression.py
 
 ## Requirements
-Python 3.x
+Python 3.x \n
 Libraries: pandas, numpy, matplotlib
