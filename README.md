@@ -14,8 +14,8 @@ This repository contains a basic implementation of linear regression in Python. 
    git clone https://github.com/pradipNP/Linear_Regression-Basic.git
 
 2. Run the Python script:
-  - python linear_regression.py
+   - python linear_regression.py
 
 ## Requirements
-Python 3.x \n
-Libraries: pandas, numpy, matplotlib
+   - Python 3.x
+   - Libraries: pandas, numpy, matplotlib
